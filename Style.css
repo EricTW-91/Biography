@@ -1,0 +1,45 @@
+.firstRow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    flex-wrap: wrap;
+    margin: 1%;
+    margin-bottom: 3%;
+}
+
+.firstImg{
+    width: 20vw;
+}
+
+.firstParagraph{
+    width: 70vw;
+    margin: 1%;
+}
+
+.midRow{
+    margin: 1%;
+    margin-bottom: 3%;
+}
+
+.secondRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    flex-wrap: wrap;
+    margin: 1%;
+    margin-bottom: 3%;
+}
+
+.secondParagraph{
+    width: 45vw;
+}
+
+.secondImg{
+    width: 50vw;
+}
+
+.secondTitle{
+    margin: 1%;
+    margin-bottom: 3%;
+}
